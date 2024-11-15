@@ -1,25 +1,25 @@
 👨‍💻 Adam Chikh Albasatena
-📋 Over Mij
-Hoi! Mijn naam is Adam Chikh Albasatena.
+📋 About Me
+Hi! My name is Adam Chikh Albasatena.
 
-🗓️ Leeftijd: 16 jaar
-🏡 Woonplaats: Uithoorn, Noord-Holland
-🎓 Opleiding: MBO-student bij Bit-Academy
-💻 Studie: IT - Software Developer
-💡 Mijn Skills
-Ik leer en werk met verschillende programmeertalen:
+🗓️ Age: 16 years old
+🏡 Location: Uithoorn, Noord-Holland, Netherlands
+🎓 Education: MBO student at Bit-Academy
+💻 Program: IT - Software Developer
+💡 My Skills
+I’m learning and working with several programming languages:
 
 🌐 HTML/CSS
 🐘 PHP
 🔣 C
-Ik ben vooral geïnteresseerd in:
+I’m particularly interested in:
 
-🔒 Het leren beveiligen van websites
-🛡️ Ethisch hacken
-⚽ Hobby's
-💪 Sportschool
-⚽ Voetbal
-🎮 Gamen
-📚 Meer leren over cybersecurity
+🔒 Learning how to secure websites
+🛡️ Ethical hacking
+⚽ Hobbies
+💪 Working out
+⚽ Football (Soccer)
+🎮 Gaming
+📚 Learning more about cybersecurity
 📫 Contact
-Stuur me gerust een e-mail: adambasatena@gmail.com
+Feel free to email me: adambasatena@gmail.com
