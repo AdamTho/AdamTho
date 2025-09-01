@@ -2,7 +2,7 @@
 📋 About Me
 Hi! My name is Adam Chikh Albasatena.
 
-🗓️ Age: 16 years old
+🗓️ Age: 17 years old
 🏡 Location: Uithoorn, Noord-Holland, Netherlands
 🎓 Education: MBO student at Bit-Academy
 💻 Program: IT - Software Developer
