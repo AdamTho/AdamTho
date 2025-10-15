@@ -9,9 +9,11 @@ Hi! My name is Adam Chikh Albasatena.
 💡 My Skills
 I’m learning and working with several programming languages:
 
-🌐 HTML/CSS
-🐘 PHP
-🔣 C
+HTML/CSS
+PHP
+C
+SQL
+
 I’m particularly interested in:
 
 🔒 Learning how to secure websites
@@ -20,6 +22,5 @@ I’m particularly interested in:
 💪 Working out
 ⚽ Football (Soccer)
 🎮 Gaming
-📚 Learning more about cybersecurity
 📫 Contact
 Feel free to email me: adambasatena@gmail.com
