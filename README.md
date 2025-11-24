@@ -3,7 +3,6 @@
 Hi! My name is Adam Chikh Albasatena.
 
 🗓️ Age: 17 years old
-🏡 Location: Netherlands
 🎓 Education: MBO student at Bit-Academy
 💻 Program: IT - Software Developer
 💡 My Skills
