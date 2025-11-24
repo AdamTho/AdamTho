@@ -4,7 +4,7 @@ Hi! My name is Adam Chikh Albasatena.
 
 🗓️ Age: 17 years old
 🎓 Education: MBO student at Bit-Academy
-💻 Program: IT - Software Developer
+💻 Education: IT - Software Developer
 💡 My Skills
 I’m learning and working with several programming languages:
 
