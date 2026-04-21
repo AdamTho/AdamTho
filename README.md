@@ -2,7 +2,8 @@ Adam Chikh Albasatena
 About Me
 Hi! My name is Adam Chikh Albasatena.
 
-Age: 18 years old
+Age: 17
+years old
 Education: MBO student at Bit Academy
 Education: IT - Software Developer
 My Skills: 
