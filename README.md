@@ -16,8 +16,6 @@ SQL
 
 I’m particularly interested in:
 
-Learning how to secure websites
-Ethical hacking
 Hobbies
 Working out
 Football (Soccer)
